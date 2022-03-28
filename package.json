@@ -1,0 +1,18 @@
+{
+  "name": "Curso-TypeScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "live-server": "^1.2.1",
+    "systemjs": "^0.21.5"
+  }
+}
